@@ -1,11 +1,31 @@
 <resources>
 
-    <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/lightColorPrimary</item>
+        <item name="colorPrimaryDark">@color/lightColorPrimaryDark</item>
+        <item name="colorAccent">@color/lightColorAccent</item>
+        <item name="backgroundColor">@color/lightColorBackground</item>
+        <item name="textColor">@color/lightColorText</item>
+        <item name="colorHigh">@color/lightColorHigh</item>
+        <item name="colorMedium">@color/lightColorMedium</item>
+        <item name="colorLow">@color/lightColorLow</item>
+        <item name="colorIcon">@color/lightColorIcon</item>
+        <item name="colorDialog">@color/lightColorDialogBackground</item>
+    </style>
+
+    <style name="DarkTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/darkColorPrimary</item>
+        <item name="colorPrimaryDark">@color/darkColorPrimaryDark</item>
+        <item name="colorAccent">@color/darkColorAccent</item>
+        <item name="backgroundColor">@color/darkColorBackground</item>
+        <item name="textColor">@color/darkColorText</item>
+        <item name="colorHigh">@color/darkColorHigh</item>
+        <item name="colorMedium">@color/darkColorMedium</item>
+        <item name="colorLow">@color/darkColorLow</item>
+        <item name="colorIcon">@color/darkColorIcon</item>
+        <item name="colorDialog">@color/darkColorDialogBackground</item>
     </style>
 
 </resources>

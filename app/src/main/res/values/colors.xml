@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+
+    <color name="lightColorPrimary">#2196f3</color>
+    <color name="lightColorPrimaryDark">#1769aa</color>
+    <color name="lightColorAccent">#4dabf5</color>
+    <color name="lightColorText">#757575</color>
+    <color name="lightColorIcon">#C6C6C6</color>
+    <color name="lightColorBackground">#ffffff</color>
+    <color name="lightColorHigh">#D8D8D8</color>
+    <color name="lightColorMedium">#E5E5E5</color>
+    <color name="lightColorLow">#f2f2f2</color>
+    <color name="lightColorDialogBackground">#ffffff</color>
+
+    <color name="darkColorPrimary">#1e1e1e</color>
+    <color name="darkColorPrimaryDark">#121212</color>
+    <color name="darkColorAccent">#4dabf5</color>
+    <color name="darkColorText">#ffffff</color>
+    <color name="darkColorIcon">#D8D8D8</color>
+    <color name="darkColorBackground">#121212</color>
+    <color name="darkColorHigh">#1E1E1E</color>
+    <color name="darkColorMedium">#2B2B2B</color>
+    <color name="darkColorLow">#383838</color>
+    <color name="darkColorDialogBackground">#1c1c1c</color>
+
+    <color name="materialYellow500">#ffeb3b</color>
+    <color name="materialYellow">#FFE608</color>
+    <color name="materialRed500">#f44336</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="materialBlue">#2979ff</color>
+
 </resources>
